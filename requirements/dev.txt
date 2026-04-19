@@ -1,0 +1,5 @@
+-r base.txt
+
+# Herramientas de desarrollo
+django-debug-toolbar>=4.3
+ipython>=8.0
